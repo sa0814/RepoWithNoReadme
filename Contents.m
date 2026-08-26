@@ -1,4 +1,4 @@
-% SAToolbox2
+% SAToolboxtest
 % Version 1.0.0
 %
 % Sample Toolbox
